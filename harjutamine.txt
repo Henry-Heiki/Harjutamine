@@ -1,2 +1,3 @@
 GitHub on veebimajutus teenus tarkvaraarenduseks
 GitHubi kasutavad Tarkvaraarendajad, õpilased, programmeerijad ja ettevõtjad
+Mina saan GitHubi kasutada githubi lehel ja linuxis nt läbi putty ja siis siia üleslaadida tehtud tööd.
